@@ -1,0 +1,29 @@
+<libreria>
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <genero>Novela</genero>
+        <precio>29.99</precio>
+    </libro>
+    <libro>
+        <titulo>Jujutsu kaisen (1er tomo) </titulo>
+        <autor>Gege Akutami</autor>
+        <genero>Aventura,​ fantasía oscura,​ sobrenatural</genero>
+        <precio>8.99</precio>
+    </libro>
+    
+    <libro>
+        <titulo> Jojo's Bizarre Adventure </titulo>
+        <autor>Hirohiko Araki</autor>
+        <genero>Aventura,​ acción,​ sobrenatural</genero>
+        <precio>9.99</precio>
+    </libro>
+
+    <libro>
+        <titulo> Blue Lock (1er tomo) </titulo>
+        <autor>Muneyuki Kaneshiro</autor>
+        <genero>Deportes,​ drama,​ psicológico</genero>
+        <precio>7.99</precio>
+    </libro>
+  </libreria>
+  
