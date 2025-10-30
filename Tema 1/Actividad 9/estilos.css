@@ -1,0 +1,33 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+#lista2  {
+  margin-left: 15px;
+}
+
+ul li a:hover {
+  background-color: cyan;
+}
+
+
+#lista1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: left;
+  border-right: 2px solid black;
+  display: block;
+  text-align: center;
+  padding: 8px 12px;
+  text-decoration: none;
+}
+
+
+
+footer {
+  text-align: left;
+  margin-top: 20px;
+}
